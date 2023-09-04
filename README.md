@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fjj29  
 - 👀 I’m interested in web development  
 - 🌱 I’m currently learning `styled-components` and `nextjs`  
-- 💞️ I’m looking to collaborate on nothing :sunglasses:  
+- 💞️ I’m looking to collaborate on: nothing :sunglasses:  
 - 📫 How to reach me: you cant :sunglasses:  
 
 <!---
